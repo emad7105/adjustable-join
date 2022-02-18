@@ -19,5 +19,5 @@ C' &larr; **Adjust**(C, delta):
 - Compute C' &larr; (delta)(C) = (newSK/oldSk)(oldSk)P
 
 
-# Construction
+# Disclaimer
 This scheme should only be used for research purposes. This repository is neither audited nor the construction is fully sanity-checked. 
